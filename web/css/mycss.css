@@ -1,0 +1,41 @@
+.heightcss{
+    height: 100%;
+}
+
+.font-size-nav{
+    font-size: 20px;
+}
+
+.h4p{
+    font-size: 35px;
+    margin-right: 1%;
+}
+
+.h5p{
+    font-size: 12px;
+    color: #d50000;
+    font-weight: bold;
+}
+
+.modal{
+    width: 30% !important;
+    height: 65% !important;
+}
+
+.rating {
+    font-size: 0 ;
+    display: inline-block ;
+}
+.rating a {
+    text-decoration: none ;
+    display: inline-block ;
+    font-size: 32px ;
+    font-size: 2rem ;    
+    color: #888 ;
+}
+.rating:hover a {
+    color: gold ;
+}
+.rating > a:hover ~ a {
+    color: #888 ;
+}
